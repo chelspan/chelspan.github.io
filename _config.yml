@@ -1,2 +1,5 @@
 name: The PANopticon
 markdown: kramdown
+
+
+permalink: /blog/:year/:month/:day/:titlepermalink: /blog/:year/:month/:day/:title
