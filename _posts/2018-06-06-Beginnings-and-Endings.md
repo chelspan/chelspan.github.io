@@ -1,7 +1,3 @@
-layout: post
-title: Beginnings and Endings
-date: 2018-06-06
---
 
 The summer before I started college, back in 2014, I remember spending a lot of time in the car. I drove around with my best friend, Katie, in my crappy black 2004 Toyota RAV4 along the winding small-town roads of Massachusetts. (I still love that car, even now, despite its tendency to scream whenever I braked or reversed and chronic inability to get past 65 miles per hour. The number of 18-wheelers that angrily passed me on the highway was truly remarkable. I hope the current owner is as fond of it as I was.) We rode around for hours, listening to the album <i>Mutual Friends<i> by this obscure Swedish band BOY. Katie once randomly produced this CD from her bag. From then on we listened to the album on loop while we drove on narrow, two-lane roads cutting through the woods and past aged farmhouses. Sometimes it would rain, and the setting sun would catch on the edges of each drop and glow like miniature sparks. 
 
