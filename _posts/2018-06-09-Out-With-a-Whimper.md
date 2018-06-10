@@ -1,8 +1,8 @@
---
+---
 layout: post
 title: Out With a Whimper
 date: 2018-06-09
---
+---
 
 It's hard to fully grasp what it means to be "done." I've been a student my entire conscious life. The next step was always certain - go to 10th grade, then 11th. Finish high school, go to college. But now, I could do anything. I have things to decide on.
 
