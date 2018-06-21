@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Boxes (alt title: Goodbyes)
-date: 2018-06-13
+date: 2018-06-21
 ---
+
+(Originally written **June 13th**, but I messed up the formatting and it didn't post. Whoop.)
 
   I find myself really oscillating lately. I'm in the process of packing up my room right now - it's really just an extended period of starting and stopping, tossing and retrieving. How do I know what to take? What to let go of? It feels almost impossible. Everything feels merely half done.
   
