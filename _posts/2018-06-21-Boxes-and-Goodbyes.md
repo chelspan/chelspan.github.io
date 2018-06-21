@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boxes (alt title: Goodbyes)
+title: Boxes and Goodbyes
 date: 2018-06-21
 ---
 
